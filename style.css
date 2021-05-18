@@ -17,7 +17,7 @@
     height: 24px;
     background-color: cyan;
     font-size: medium;
-    border: 1px solid cyan;
+    border-style: hidden;
     border-radius: 50%;
     color: white;
     display:block;
