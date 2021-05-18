@@ -1,0 +1,31 @@
+#btn-container {
+    margin: 100px 100px
+}
+
+#btn-search {
+    width: 120px;
+    background-color: #ffffff;
+    font-size: medium;
+    border: 1px solid cyan;
+    border-radius: 10px;
+    color: cyan
+}
+
+#btn-plus {
+    width: 24px;
+    height: 24px;
+    background-color: cyan;
+    font-size: medium;
+    border: 1px solid cyan;
+    border-radius: 100%;
+    color: white
+}
+
+#btn-create-account {
+    width: 120px;
+    background-color: rgb(21, 101, 221);
+    font-size: small;
+    border: 2px solid #000000;
+    color: white;
+    box-shadow: 1px 2px #000000;
+}
